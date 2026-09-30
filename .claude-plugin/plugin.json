@@ -1,0 +1,10 @@
+{
+  "name": "yt-studio",
+  "version": "1.0.0",
+  "description": "Работа над YouTube-каналом на русском и английском: сценарий и хук, заголовок с обложкой, монтажный лист, удержание, выбросы в нише, Shorts, главы, комментарии, план, аудит, журнал результатов.",
+  "author": { "name": "palach141", "url": "https://github.com/palach141" },
+  "homepage": "https://github.com/palach141/yt-studio",
+  "repository": "https://github.com/palach141/yt-studio",
+  "license": "MIT",
+  "keywords": ["youtube", "shorts", "retention", "titles", "thumbnails", "script", "russian"]
+}

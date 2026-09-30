@@ -1,0 +1,13 @@
+{
+  "name": "yt-studio",
+  "description": "yt-studio: скилл для работы над YouTube-каналом",
+  "owner": { "name": "palach141", "url": "https://github.com/palach141" },
+  "plugins": [
+    {
+      "name": "yt-studio",
+      "source": "./",
+      "description": "Сценарий, упаковка, монтажный лист, удержание, ниша, Shorts, главы, журнал - на русском и английском.",
+      "category": "productivity"
+    }
+  ]
+}
